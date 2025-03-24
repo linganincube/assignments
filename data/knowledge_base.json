@@ -1,0 +1,28 @@
+{
+    "admissions": [
+        {
+            "question": "what are the admission requirements?",
+            "answer": "Our admission requirements include: 1. Completed application form 2. 5 O levels including Maths and English 3. 2 A levels (optional for students over 23 years) 4. Personal statement (500-700 words) 5. Letter of recommendation. International students additionally need TOEFL (minimum 80) or IELTS (minimum 6.5) scores.",
+            "keywords": ["requirements", "admission", "apply", "application", "needed"]
+        },
+        {
+            "question": "when is the application deadline?",
+            "answer": "Application deadlines vary: Regular Decision - January 15, Early Action - November 1, Transfer Students - March 1, International Students - December 1 for Fall semester.",
+            "keywords": ["deadline", "due date", "last date", "application period"]
+        }
+    ],
+    "programs": [
+        {
+            "question": "what engineering programs are offered?",
+            "answer": "We offer Bachelor's programs in: 1. Mechanical Engineering 2. Electrical Engineering 3. Computer Engineering 4. Civil Engineering 5. Biomedical Engineering. 6.Master in Business Management and ICT.All programs are ZIMCHE-accredited.",
+            "keywords": ["engineering", "degrees", "majors", "programs"]
+        }
+    ],
+    "services": [
+        {
+            "question": "where is the student center?",
+            "answer": "The Student Center is located between 3rd and 4th avenue along J Moyo, opposite Greens Supermarket in Bulawayo. Hours: Mon-Fri 8am-10pm, Sat-Sun 10am-8pm. It houses the cafeteria, student organizations office, and counseling services.",
+            "keywords": ["location", "student center", "building", "map"]
+        }
+    ]
+}
